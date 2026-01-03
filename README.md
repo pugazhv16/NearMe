@@ -181,10 +181,17 @@ Spectrum mall.html:
 
 ## OUTPUT
 
-![Uploading 525982557-fbd2daab-dfdf-42f1-b57a-c332d7e8e45a.png…]()
+<img width="1847" height="927" alt="525982557-fbd2daab-dfdf-42f1-b57a-c332d7e8e45a" src="https://github.com/user-attachments/assets/cc0d2478-bc1d-4d03-b6d7-c1d0c963663a" />
 
+<img width="1190" height="505" alt="525982718-15411553-a20f-4b9a-89b0-44cf1923df89" src="https://github.com/user-attachments/assets/af9e8128-4321-43fb-8b90-73f82f6b3f9e" />
 
+<img width="1398" height="433" alt="525982851-759b3d88-b41a-4605-a6e0-eb9cb6aa728e" src="https://github.com/user-attachments/assets/c4eafc85-0e44-42ab-80a9-4965934a3c31" />
 
+<img width="1863" height="297" alt="525983910-dc9efcf7-2e63-410e-9e9a-a36c6e19255d" src="https://github.com/user-attachments/assets/2163532b-69ea-4582-8917-aef020b9403f" />
+
+<img width="1861" height="429" alt="525984043-2d91d772-867f-4360-833e-d27fa85e7c7d" src="https://github.com/user-attachments/assets/308d7be2-10f4-4bf2-8953-3ebb0410a3f3" />
+
+<img width="1103" height="632" alt="525984156-5377de11-578a-4c21-a04d-c4b7ed2d9077" src="https://github.com/user-attachments/assets/652ac70e-de33-4eff-875d-4d2921ffd2f5" />
 
 
 
